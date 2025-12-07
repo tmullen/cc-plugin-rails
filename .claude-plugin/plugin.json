@@ -1,0 +1,10 @@
+{
+  "name": "vanilla-rails",
+  "version": "1.0.0",
+  "description": "Rails + Hotwire patterns from 37signals - REST purity, thin controllers, rich models, Turbo Streams, and StimulusJS",
+  "author": {
+    "name": "Ted Mullen"
+  },
+  "license": "MIT",
+  "keywords": ["rails", "hotwire", "turbo", "stimulus", "ruby", "37signals", "basecamp"]
+}
